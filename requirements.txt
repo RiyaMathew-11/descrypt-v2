@@ -87,7 +87,7 @@ fsspec @ file:///opt/conda/conda-bld/fsspec_1647268051896/work
 future @ file:///opt/concourse/worker/volumes/live/f456638c-86a7-4060-7f5f-d499a051219b/volume/future_1607571337593/work
 gensim @ file:///opt/concourse/worker/volumes/live/01fcedc5-d7b4-4991-7b8d-28a2f2974568/volume/gensim_1646824946298/work
 gitdb2==2.0.6
-GitPython==3.1.30
+GitPython==3.1.32
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 gmpy2 @ file:///opt/concourse/worker/volumes/live/3b0f84f9-2a9c-48c9-6340-601e345ea292/volume/gmpy2_1645455548178/work
 google-api-core @ file:///C:/ci/google-api-core-split_1613980333946/work
